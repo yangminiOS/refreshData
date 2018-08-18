@@ -12,7 +12,7 @@
 
 2.每次刷新后将reData数据放到originalData中，然后删除reData中的数据，再将最新的数据放在reData中</br>
 
-3.刷新tableView  </br>
+3.然后刷新tableView  </br>
 
 
 
